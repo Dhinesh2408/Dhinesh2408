@@ -2,7 +2,7 @@
 About Me<br>Hi, I'm Dhinesh Kumar (Dhinesh2408)!<br>I am a passionate developer focused on building AI-powered tools, real-time chat applications, and full-stack web solutions. I enjoy creating innovative projects that leverage the power of AI and real-time technologies to solve real-world problems.<br>What I Do<br>Develop AI-powered tools and intelligent applications<br>Build real-time chat apps with efficient communication features<br>Create full-stack web solutions integrating modern frameworks and technologies<br>Popular Projects<br>Here are some of my repositories:<br>Yellow<br>Basic-calculator-in-python-: A simple python-based calculator project<br>Personal-portfolio<br>Get in Touch<br>Feel free to explore my repositories and connect with me for collaborations or questions about my projects!<br>co-founder and lead developer of DiallockAi 
 
 
-## 🌐 <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dhinesh-kumar-angusamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhinesh-kumar-angusamy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dhineshad235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhineshad235" height="30" width="40" /></a>
