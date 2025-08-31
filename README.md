@@ -1,18 +1,25 @@
 [![](https://komarev.com/ghpvc/?username=dhinesh2408&label=Profile+views&color=0e75b6&style=flat)](https://github.com/dhinesh2408)
 
-# Hey there👋🏻 
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <h2>About Me</h2>
+      Hi, I'm Dhinesh.<br>
+      I am a passionate developer focused on building AI-powered tools, real-time chat applications, and full-stack web solutions.  
+      I enjoy creating innovative projects that leverage the power of AI and real-time technologies to solve real-world problems.<br><br>
+      - 🔭 Currently working on [Ai Sales Assistant](https://product.diallockai.com)<br>
+      - 🌱 Learning Generative AI applications<br>
+      - 👨‍💻 Projects at [My Portfolio](https://dhinesh04.netlify.app/)<br>
+      - 💬 Ask me about Java, JavaScript, AI applications<br>
+      - 📫 Reach me at dhineshad235@gmail.com<br>
+      - 📄 LinkedIn: [dhinesh-kumar-angusamy](https://www.linkedin.com/in/dhinesh-kumar-angusamy/)<br>
+    </td>
+    <td valign="top" width="35%" align="right">
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Developer GIF" width="150" />
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on [Ai sales Assistant](product.diallockai.com)
-
-- 🌱 I’m currently learning *GenAi applications*
-
-- 👨‍💻 All of my projects are available at [https://dhinesh04.netlify.app/](https://dhinesh04.netlify.app/)
-
-- 💬 Ask me about *java, javascript, Ai applications*
-
-- 📫 How to reach me *dhineshad235@gmail.com*
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/dhinesh-kumar-angusamy/](https://www.linkedin.com/in/dhinesh-kumar-angusamy/)
   
 <h3 align="left">Languages and Tools:</h3>
 
