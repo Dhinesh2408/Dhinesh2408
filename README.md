@@ -38,9 +38,7 @@ About Me<br>Hi, I'm Dhinesh !<br><br>I am a passionate developer focused on buil
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Dhinesh2408&theme=dark&hide_border=false)<br/>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhinesh2408&show_icons=true&locale=en&layout=compact" alt="dhinesh2408" /></p>
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhinesh2408&show_icons=true&locale=en&layout=compact" alt="dhinesh2408" /></p>
 
 </a> 
 
