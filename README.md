@@ -2,6 +2,9 @@
 
 # Hey there 👋🏻
 
+<h3 align="center">I am a passionate developer focused on building AI-powered tools, real-time chat applications, and full-stack web solutions. I enjoy creating innovative projects that leverage the power of AI and real-time technologies to solve real-world problems.</h3>
+
+
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGd2NmllOWZ3Y3drMnoyNWV1bjFwN2I4YjFkbnF6dGprbnR5YzJ1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="220">
 
 - 🔭 I’m currently working on [Ai sales Assistant](https://product.diallockai.com)
