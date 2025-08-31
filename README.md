@@ -4,22 +4,21 @@
 
 <div style="display: flex; align-items: flex-start;">
 
-<div style="flex: 1;">
+  <div style="flex: 1; min-width: 0;">
+    - 🔭 I’m currently working on [Ai sales Assistant](https://product.diallockai.com)<br>
+    - 🌱 I’m currently learning GenAi applications<br>
+    - 👨‍💻 All of my projects are available at [https://dhinesh04.netlify.app/](https://dhinesh04.netlify.app/)<br>
+    - 💬 Ask me about java, javascript, Ai applications<br>
+    - 📫 How to reach me [dhineshad235@gmail.com](mailto:dhineshad235@gmail.com)<br>
+    - 📄 Know about my experiences [https://www.linkedin.com/in/dhinesh-kumar-angusamy/](https://www.linkedin.com/in/dhinesh-kumar-angusamy/)<br>
+  </div>
 
-- 🔭 I’m currently working on [Ai sales Assistant](https://product.diallockai.com)  
-- 🌱 I’m currently learning GenAi applications  
-- 👨‍💻 All of my projects are available at [https://dhinesh04.netlify.app/](https://dhinesh04.netlify.app/)  
-- 💬 Ask me about java, javascript, Ai applications  
-- 📫 How to reach me [dhineshad235@gmail.com](mailto:dhineshad235@gmail.com)  
-- 📄 Know about my experiences [https://www.linkedin.com/in/dhinesh-kumar-angusamy/](https://www.linkedin.com/in/dhinesh-kumar-angusamy/)  
-
-</div>
-
-<div style="margin-left: 20px;">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Developer GIF" width="150" />
-</div>
+  <div style="margin-left: 20px; flex-shrink: 0;">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Developer GIF" width="150" />
+  </div>
 
 </div>
+
 
   
 <h3 align="left">Languages and Tools:</h3>
