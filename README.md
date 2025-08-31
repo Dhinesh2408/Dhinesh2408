@@ -1,6 +1,22 @@
+[![](https://visitcount.itsvg.in/api?id=Dhinesh2408&icon=2&color=1)](https://visitcount.itsvg.in)
+
 # Hey there👋🏻 
 About Me<br>Hi, I'm Dhinesh <br><br>I am a passionate developer focused on building AI-powered tools, real-time chat applications, and full-stack web solutions. I enjoy creating innovative projects that leverage the power of AI and real-time technologies to solve real-world problems.<br>What I Do<br>Develop AI-powered tools and intelligent applications<br>Build real-time chat apps with efficient communication features<br>Create full-stack web solutions integrating modern frameworks and technologies<br>Popular Projects<br>Here are some of my repositories:<br>Yellow<br>Basic-calculator-in-python-: A simple python-based calculator project<br>Personal-portfolio<br>Get in Touch<br>Feel free to explore my repositories and connect with me for collaborations or questions about my projects!<br>co-founder and lead developer of DiallockAi 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhinesh2408&label=Profile%20views&color=0e75b6&style=flat" alt="dhinesh2408" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhinesh2408" alt="dhinesh2408" /></a> </p>
+
+- 🔭 I’m currently working on [Ai sales Assistant](product.diallockai.com)
+
+- 🌱 I’m currently learning *GenAi applications*
+
+- 👨‍💻 All of my projects are available at [https://dhinesh04.netlify.app/](https://dhinesh04.netlify.app/)
+
+- 💬 Ask me about *java, javascript, Ai applications*
+
+- 📫 How to reach me *dhineshad235@gmail.com*
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/dhinesh-kumar-angusamy/](https://www.linkedin.com/in/dhinesh-kumar-angusamy/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
