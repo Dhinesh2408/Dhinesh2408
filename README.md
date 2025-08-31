@@ -1,4 +1,3 @@
-(https://visitcount.itsvg.in/api?id=Dhinesh2408&icon=2&color=1)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhinesh2408&label=Profile%20views&color=0e75b6&style=flat" alt="dhinesh2408" /> </p>
 
 # Hey there👋🏻 
@@ -25,7 +24,7 @@
 <a href="https://www.leetcode.com/dhineshx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhineshx" height="30" width="40" /></a>
 </p>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhinesh2408&show_icons=true&locale=en&layout=compact" alt="dhinesh2408" /></p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dhinesh2408&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Dhinesh2408&theme=dark&hide_border=false)<br/>
