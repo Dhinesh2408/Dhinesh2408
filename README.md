@@ -33,13 +33,14 @@ About Me<br>Hi, I'm Dhinesh !<br><br>I am a passionate developer focused on buil
 </p>
 
 # 📊 GitHub Stats:
-<p align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=Dhinesh2408&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-</p>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Dhinesh2408&theme=dark&hide_border=false)<br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhinesh2408&show_icons=true&locale=en&layout=compact" alt="dhinesh2408" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhinesh2408&show_icons=true&locale=en&layout=compact" alt="dhinesh2408" /></p>
+</p>
 
 </a> 
 ---
