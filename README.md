@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey there👋🏻 :
 About Me<br>Hi, I'm Dhinesh Kumar (Dhinesh2408)!<br><br>I am a passionate developer focused on building AI-powered tools, real-time chat applications, and full-stack web solutions. I enjoy creating innovative projects that leverage the power of AI and real-time technologies to solve real-world problems.<br><br>What I Do<br>Develop AI-powered tools and intelligent applications<br><br>Build real-time chat apps with efficient communication features<br><br>Create full-stack web solutions integrating modern frameworks and technologies<br><br>Popular Projects<br>Here are some of my repositories:<br><br>Yellow<br><br>Basic-calculator-in-python-: A simple python-based calculator project<br><br>Codsoft<br><br>forage-jpmc-swe-task-2: Starter repo for task 2 of JPMC's forage program<br><br>task2_JPmorgan<br><br>Personal-portfolio<br><br>Get in Touch<br>Feel free to explore my repositories and connect with me for collaborations or questions about my projects!<br>co-founder and lead developer of DiallockAi 
 
 
