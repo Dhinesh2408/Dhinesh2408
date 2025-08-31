@@ -2,13 +2,18 @@
 
 # Hey there 👋🏻
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGd2NmllOWZ3Y3drMnoyNWV1bjFwN2I4YjFkbnF6dGprbnR5YzJ1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="170">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGd2NmllOWZ3Y3drMnoyNWV1bjFwN2I4YjFkbnF6dGprbnR5YzJ1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="220">
 
 - 🔭 I’m currently working on [Ai sales Assistant](https://product.diallockai.com)
+  
 - 🌱 I’m currently learning GenAi applications
+  
 - 👨‍💻 All of my projects are available at [https://dhinesh04.netlify.app/](https://dhinesh04.netlify.app/)
+  
 - 💬 Ask me about java, javascript, Ai applications
+  
 - 📫 How to reach me [dhineshad235@gmail.com](mailto:dhineshad235@gmail.com)
+  
 - 📄 Know about my experiences [https://www.linkedin.com/in/dhinesh-kumar-angusamy/](https://www.linkedin.com/in/dhinesh-kumar-angusamy/)
 
   
