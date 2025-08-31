@@ -1,20 +1,23 @@
 [![](https://komarev.com/ghpvc/?username=dhinesh2408&label=Profile+views&color=0e75b6&style=flat)](https://github.com/dhinesh2408)
 
-# Hey there👋🏻 
+# Hey there 👋🏻
 
-- 🔭 I’m currently working on [Ai sales Assistant](product.diallockai.com)
+<div style="display: flex; align-items: flex-start;">
 
-- 🌱 I’m currently learning GenAi applications
+  <div style="flex: 1; min-width: 0;">
+- 🔭 I’m currently working on [Ai sales Assistant](https://product.diallockai.com)<br>
+- 🌱 I’m currently learning GenAi applications<br>
+- 👨‍💻 All of my projects are available at [https://dhinesh04.netlify.app/](https://dhinesh04.netlify.app/)<br>
+- 💬 Ask me about java, javascript, Ai applications<br>
+- 📫 How to reach me [dhineshad235@gmail.com](mailto:dhineshad235@gmail.com)<br>
+- 📄 Know about my experiences [https://www.linkedin.com/in/dhinesh-kumar-angusamy/](https://www.linkedin.com/in/dhinesh-kumar-angusamy/)<br>
+  </div>
 
-- 👨‍💻 All of my projects are available at [https://dhinesh04.netlify.app/](https://dhinesh04.netlify.app/)
+  <div style="margin-left: 20px; flex-shrink: 0;">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGd2NmllOWZ3Y3drMnoyNWV1bjFwN2I4YjFkbnF6dGprbnR5YzJ1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" width="150" />
+  </div>
 
-- 💬 Ask me about java, javascript, Ai applications
-
-- 📫 How to reach me dhineshad235@gmail.com
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/dhinesh-kumar-angusamy/](https://www.linkedin.com/in/dhinesh-kumar-angusamy/)
-
-- https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGd2NmllOWZ3Y3drMnoyNWV1bjFwN2I4YjFkbnF6dGprbnR5YzJ1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif
+</div>
 
   
 <h3 align="left">Languages and Tools:</h3>
