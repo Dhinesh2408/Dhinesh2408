@@ -56,3 +56,15 @@ About Me<br>Hi, I'm Dhinesh !<br><br>I am a passionate developer focused on buil
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Dhinesh2408&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+
+### Medium 
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dhineshvalentine)
+
+## 📝 Latest Blog Posts on Medium
+<!-- BLOG-POST-LIST:START -->
+- [Escaping the Post-Engineering Rat Race: Why More Courses Aren’t the Answer](https://medium.com/@dhineshvalentine/the-post-engineering-rat-race-why-so-many-graduates-keep-chasing-extra-courses-1be0428061ae)
+- [Life After Computer Science Engineering: What Really Happens Next](https://medium.com/@dhineshvalentine/life-after-engineering-college-what-really-happens-next-6c9ded55fdfd)
+<!-- BLOG-POST-LIST:END -->
+
+
